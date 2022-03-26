@@ -5,8 +5,8 @@
 <img alt="License" src="https://img.shields.io/github/license/gupta-shrinath/Bloc?color=bright%20green&labelColor=black&logo=github&style=for-the-badge">
 </p>
 
-* Bloc is a to-do application that runs on your local ethereum blockchain.
-* Bloc uses smart-contracts and web3 js to talk to your local ethereum blockchain.
+* TaskIT is a to-do application that runs on your local ethereum blockchain.
+* TaskIT uses smart-contracts and web3 js to talk to your local ethereum blockchain.
 
 ## Dependencies
 * Bootstrap 4.5.2
@@ -42,8 +42,7 @@ server will also work)
 - Go to Extensions on the left panel search for live server and install it.
 - Open the folder containing this repo and down in the blue status bar and click on Go live.  
 
-## Screenshots
-![Bloc App](https://github.com/gupta-shrinath/Bloc/blob/gupta-shrinath/images/bloc-app.png)
+
 
 ## Credits
 #### [Icons8](https://icons8.com/)
@@ -51,10 +50,7 @@ server will also work)
 #### [Sharanda](https://github.com/sharanda/manrope)
 
 ## Additional Info.
-- I subconsciously tend to write complex solution to simple problem so if you found a simpler way 
-to a particular thing you can reach out to me on [twitter](https://twitter.com/gupta_shrinath) 
-and let me know.
-- I would like to thank Ankit Gupta @ankitecd for reviewing the `js/app.js` file.
+
 
 ## License
 Bloc App is licensed under MIT LICENSE.
