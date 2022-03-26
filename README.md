@@ -53,4 +53,4 @@ server will also work)
 
 
 ## License
-Bloc App is licensed under MIT LICENSE.
+TaskIT App is licensed under MIT LICENSE.
